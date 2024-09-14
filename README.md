@@ -11,7 +11,7 @@ Over time, as dark matter accumulates, it becomes self-gravitating and forms a n
 
 I have analyzed some parameters for many neutron stars throughout our galaxy and have simulated what this process might look like.
 
-C161ProjectAnalysis.ipynb explains the various parameters I used.
+C161ProjectAnalysis.ipynb explains the various parameters I used. \
 Note: This project is theoretical and does NOT use any recorded data.
 
 I have provided some gifs showing the simulation, but feel free to create your own using C161ProjectBHCollapseSim.ipynb
